@@ -4,6 +4,24 @@
 
 ---
 
+<!-- TOPO ANIMADO (tech estilo cyber/vírus elegante) -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
+</p>
+
+<h1 align="center">👨‍💻 Rogério Moreno</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Red+Team+Focused;AI+Applied+to+Security;Python+Developer;Always+Learning..." />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=green" alt="contador de visitas"/>
+</p>
+
+---
+
 ## 🚀 Sobre mim
 
 Sou estudante de **Segurança da Informação**, com foco em **cibersegurança ofensiva (Red Team)** e uso de **Inteligência Artificial aplicada à segurança**.
@@ -25,13 +43,19 @@ Atualmente, estou aprofundando meus estudos em:
 
 ## 🛠️ Tecnologias & Ferramentas
 
-* Python
-* Linux
-* Git & GitHub
-* Machine Learning (Scikit-learn)
-* Streamlit
-* Virtualização (VMs)
-* Conceitos de Cibersegurança (Red Team / Blue Team)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-%26%20GitHub-F05032?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Virtualization-003366?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+<img src="https://img.shields.io/badge/Red_Team-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blue_Team-1E90FF?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -54,9 +78,23 @@ Aplicação com múltiplos templates (Free e Pro), interface moderna e geração
 
 ---
 
+## 📊 Estatísticas + Streak
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical"/>
+</p>
+
+---
+
 ## 📚 Formação & Estudos
 
 🎓 Segurança da Informação — Cruzeiro do Sul
+
 📘 Cursos complementares:
 
 * Inteligência Artificial
@@ -74,6 +112,22 @@ Aplicação com múltiplos templates (Free e Pro), interface moderna e geração
 ---
 
 ## ⚡ Objetivo
+
+Atuar na área de **Cibersegurança**, com foco em **Red Team**, análise de vulnerabilidades e desenvolvimento de soluções inteligentes com IA.
+
+---
+
+## 🧬 Tecnologia (visual final)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+</p>
+
+---
+
+## ⚠️ Ética
+
+Todo conhecimento aplicado com foco em **segurança, ética e legalidade**.
 
 Atuar na área de **Cibersegurança**, com foco em **Red Team**, análise de vulnerabilidades e desenvolvimento de soluções inteligentes com IA.
 
