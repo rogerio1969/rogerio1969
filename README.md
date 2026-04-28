@@ -1,58 +1,82 @@
-# 👨‍💻 Rogério Moreno
+# 👋 Olá, eu sou Rogério Moreno
 
-🚀 **Cybersecurity | Red Team | Artificial Intelligence | Python Developer**
-
----
-
-## 🧠 About Me
-
-I’m passionate about **Cybersecurity and Artificial Intelligence**, always focused on learning, practicing, and building real-world solutions.
-
-🔐 Currently working with:
-
-* Red Team practices
-* Security analysis
-* Virtual lab environments
-
-🎓 Studying:
-
-* Computer Networks
-* Cloud Security
-* AI applied to Information Security
+🎯 Estudante de Segurança da Informação | Foco em Cibersegurança, Red Team e Inteligência Artificial
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Sobre mim
 
-💻 Languages & Tools:
+Sou estudante de **Segurança da Informação**, com foco em **cibersegurança ofensiva (Red Team)** e uso de **Inteligência Artificial aplicada à segurança**.
 
-* Python 🐍
-* Linux 🐧
+Tenho experiência prática com:
+
+* Ambientes virtuais para testes e simulações
+* Análise de código Python
+* Desenvolvimento de ferramentas com IA
+* Projetos voltados para automação e segurança
+
+Atualmente, estou aprofundando meus estudos em:
+
+* Redes de Computadores
+* Segurança em Nuvem
+* Inteligência Artificial aplicada à Segurança
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+* Python
+* Linux
 * Git & GitHub
-* Virtual Machines (VMs)
-* Networking fundamentals
-
-🛡️ Cybersecurity:
-
-* Ethical Hacking
-* Red Team techniques
-* Security analysis
-* Digital forensics (basic)
+* Machine Learning (Scikit-learn)
+* Streamlit
+* Virtualização (VMs)
+* Conceitos de Cibersegurança (Red Team / Blue Team)
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Projetos em destaque
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
+🔹 **Plataforma de Análise e Correção de Código Python com IA**
+Sistema capaz de analisar, sugerir melhorias e explicar códigos automaticamente.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
+🔹 **Pipeline de Machine Learning (Iris Dataset)**
+Projeto completo com:
+
+* Análise exploratória
+* Validação cruzada
+* GridSearch
+* Salvamento de modelo
+* Predição com novos dados
+
+🔹 **Gerador de Currículos com IA**
+Aplicação com múltiplos templates (Free e Pro), interface moderna e geração automatizada.
 
 ---
 
-## 🚀 Projects
+## 📚 Formação & Estudos
 
-🔹 **Adrina IA**
-AI-based classification project with modular pipeline, validation, and model versioning
+🎓 Segurança da Informação — Cruzeiro do Sul
+📘 Cursos complementares:
+
+* Inteligência Artificial
+* Computação Quântica
+* Cibersegurança (Fortinet)
+* Python
+
+---
+
+## 📫 Contato
+
+📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
+🔗 LinkedIn: seu-linkedin
+
+---
+
+## ⚡ Objetivo
+
+Atuar na área de **Cibersegurança**, com foco em **Red Team**, análise de vulnerabilidades e desenvolvimento de soluções inteligentes com IA.
+
 
 🔹 **Python Code Analyzer**
 Tool for analyzing and improving Python code with intelligent suggestions
