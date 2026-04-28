@@ -7,17 +7,7 @@
 <!-- TOPO ANIMADO (tech estilo cyber/vírus elegante) -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
-</p>
-
-<h1 align="center">👨‍💻 Rogério Moreno</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Red+Team+Focused;AI+Applied+to+Security;Python+Developer;Always+Learning..." />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=green" alt="contador de visitas"/>
+  <img src="LINK_DA_SUA_IMAGEM" width="100%"/>
 </p>
 
 ---
