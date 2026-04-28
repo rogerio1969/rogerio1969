@@ -5,11 +5,7 @@
 ---
 
 <!-- TOPO ANIMADO (tech estilo cyber/vírus elegante) -->
-README.md
-banner.png
-<p align="center">
-  <img src="LINK" style="width:100%; max-height:300px; object-fit:cover;"/>
-</p>
+
 
 ---
 
