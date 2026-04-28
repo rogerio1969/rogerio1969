@@ -4,7 +4,9 @@
 
 ---
 
-<!-- TOPO ANIMADO (tech estilo cyber/vírus elegante) -->
+<<p align="center">
+  <img src="banner.png" width="100%"/>
+</p>!-- TOPO ANIMADO (tech estilo cyber/vírus elegante) -->
 
 
 ---
@@ -93,7 +95,7 @@ Aplicação com múltiplos templates (Free e Pro), interface moderna e geração
 
 ## 📫 Contato
 
-📧 Email: [seuemail@email.com](rogeriomorenoscs@gmail.com)
+📧 Email: [rogeriomorenoscs@gmail.com](rogeriomorenoscs@gmail.com)
 🔗 LinkedIn: seu-linkedin
 
 ---
