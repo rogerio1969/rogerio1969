@@ -93,7 +93,7 @@ Aplicação com múltiplos templates (Free e Pro), interface moderna e geração
 
 ## 📫 Contato
 
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
+📧 Email: [seuemail@email.com](rogeriomorenoscs@gmail.com)
 🔗 LinkedIn: seu-linkedin
 
 ---
@@ -130,7 +130,7 @@ Application for generating professional resumes with multiple templates
 ## 📫 Contact
 
 📎 LinkedIn: *your-link-here*
-📎 GitHub: https://github.com/SEU_USUARIO
+📎 GitHub: https://github.com/rogerio1969
 
 ---
 
