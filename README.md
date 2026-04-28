@@ -7,7 +7,7 @@
 <!-- TOPO ANIMADO (tech estilo cyber/vírus elegante) -->
 
 <p align="center">
-  <img src="LINK_DA_SUA_IMAGEM" width="100%"/>
+  <img src="LINK_CORRETO_DA_IMAGEM" width="100%"/>
 </p>
 
 ---
