@@ -4,9 +4,7 @@
 
 ---
 
-<<p align="center">
-  <img src="banner.png" width="100%"/>
-</p>!-- TOPO ANIMADO (tech estilo cyber/vírus elegante) -->
+
 
 
 ---
@@ -75,7 +73,7 @@ Aplicação com múltiplos templates (Free e Pro), interface moderna e geração
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=rogerio1969&theme=radical"/>
 </p>
 
 ---
